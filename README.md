@@ -1,3 +1,3 @@
 # ValidationDemo
 
-Demo project from `Spring Boot 3, Spring 6 & Hibernate for Beginners` course - `Chapter 6` - `Spring MVC - Validation` topic
+Demo project from [Spring Boot 3, Spring 6 & Hibernate for Beginners](https://www.udemy.com/course/spring-hibernate-tutorial/) course - `Chapter 6` - `Spring MVC - Validation` topic
